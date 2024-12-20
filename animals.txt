@@ -1,2 +1,4 @@
 animal1
 animal2
+animal3
+animal4
